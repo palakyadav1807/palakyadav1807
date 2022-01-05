@@ -1,5 +1,5 @@
 <p align="center">
-  <img  height="175px" alt="Screenshot 2022-01-06 015710" src="https://user-images.githubusercontent.com/67941687/148284480-1d994263-51e1-4e21-a0e7-f9a02526bc45.png" >
+  <img width="425" alt="Screenshot 2022-01-06 022024" src="https://user-images.githubusercontent.com/67941687/148287618-ec85f96e-84d6-4ca5-abf8-1d309d90679c.png">
  </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Palak </h1>
