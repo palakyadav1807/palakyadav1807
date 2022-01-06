@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **palakyadav187@gmail.com**
+- 📫 How to reach me : **palakyadav187@gmail.com**
 
 ## 🚀 Languages and Tools:
 
