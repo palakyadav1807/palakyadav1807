@@ -37,7 +37,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/palakyadav1807/github-readme-streak-stats">
+    <a href="https://palakyadav1807/palakyadav1807/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=palakyadav1807&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -70,7 +70,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/palakyadav1807/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=palakyadav1807">
 </a>
 <a href="https://github.com/palakyadav1807?tab=followers"><img src="https://img.shields.io/github/followers/palakyadav1807?label=Followers&style=social" alt="GitHub Badge"></a>
